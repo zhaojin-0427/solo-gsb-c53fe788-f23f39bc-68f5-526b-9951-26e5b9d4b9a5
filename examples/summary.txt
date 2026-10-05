@@ -1,0 +1,5 @@
+radiance TIFF: shape=(128, 128, 3), dtype=float32, min=0.0100, max=0.6000
+motion pixels:  1058
+unknown pixels: 0
+shifts: [{'dy': -3, 'dx': 4}, {'dy': 0, 'dx': 0}, {'dy': 5, 'dx': -2}]
+base64 lengths: tiff=262564, motion_png=604, unknown_png=340
